@@ -1,0 +1,8 @@
+torch
+torchvision
+advertorch
+tqdm
+pillow
+imagenet_c
+numpy
+Wand
